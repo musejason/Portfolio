@@ -1,2 +1,2 @@
-# Portfolio-Webpage
-Building a simple web portfolio to serve as your online business card
+# Portfolio
+Building a simple web portfolio to serve as my online business card.
