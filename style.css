@@ -77,10 +77,6 @@ em {
 
 .profile_fit {
 	max-height: 300px;
-  	padding: 5px;
-  	align-items: center;
-  	display: flex;
-  	justify-content: center;
 }
 .photos_fit {
 	max-width: 350px;
@@ -95,6 +91,13 @@ em {
 .column {
 	flex: 50%;
 	padding: 5px;
+}
+.column_profile {
+	flex: 1;
+	padding: 5px;
+	align-items: center;
+  	display: flex;
+  	justify-content: center;
 }
 
   
